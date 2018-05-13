@@ -35,8 +35,8 @@ header{
     position: fixed;
     width: 28vmax;
     height: auto;
-    border: 0.3rem solid gold;
-    background-color: whitesmoke;
+    border: 0.3rem solid aliceblue;
+    background-color: #D7DF01;
     z-index: 100;  
     top:5%;/*座標調整*/
     left: 50%;/*座標調整*/
@@ -45,23 +45,23 @@ header{
 }
 .close-menu{
     padding-bottom: 1rem;
-    border-top:solid 0.3rem gold;
+    border-top:solid 0.3rem aliceblue;
     font-size:150%;
     padding-top:1rem;
     display:block;
-    color:gold;
+    color:aliceblue;
 }
 .link{
     display:block;
     font-family: 'Passion One', cursive;
     font-size:150%;
-    color:gold;
+    color:aliceblue
 }
 .menu-lists{
     text-align: center;
 }
 .menu-list p{
-    border-top:solid 0.3rem gold;
+    border-top:solid 0.3rem aliceblue;
     padding-top:1rem;
 }
 .menu-list {
@@ -73,7 +73,7 @@ header{
 .m-menu-title{
     font-size:180%;
     font-family: 'Passion One', cursive;
-    color:gold;
+    color:aliceblue;
 }
 /*見出し*/
 .m-headline{
@@ -185,7 +185,7 @@ header{
   font-size:3vmax;
 }
 #link-font{
-  color:gold;
+  color:aliceblue;
   font-size:2.4vmax;
 }
 /*メッセージ全体*/
