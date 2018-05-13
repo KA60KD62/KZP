@@ -53,6 +53,7 @@ header{
 .link{
     display:block;
     font-family: 'Passion One', cursive;
+    font-size:200%;
 }
 .menu-lists{
     text-align: center;
