@@ -39,10 +39,10 @@ header{
     border: 2px solid purple;
     background-color: whitesmoke;
     z-index: 100;  
-    top:15%;/*座標調整*/
+    top:5%;/*座標調整*/
     left: 50%;/*座標調整*/
     transform: translate(-50%,0);/*座標調整*/
-    padding-top: 2vmax;    
+    padding-top: 2vmax;   
 }
 .close-menu{
     padding-bottom: 1rem;
@@ -55,6 +55,7 @@ header{
     display:block;
     font-family: 'Passion One', cursive;
     font-size:200%;
+    color:purple;
 }
 .menu-lists{
     text-align: center;
@@ -70,8 +71,9 @@ header{
     text-decoration:none;
 }
 .a-menu-title{
-    font-size:120%;
+    font-size:200%;
     font-family: 'Passion One', cursive;
+    color:purple;
 }
 /*見出し*/
 .a-headline{
