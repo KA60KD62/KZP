@@ -49,6 +49,7 @@ header{
     border-top:solid 2px;
     font-size:200%;
     padding-top:1rem;
+    display:block;
 }
 .link{
     display:block;
