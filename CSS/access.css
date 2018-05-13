@@ -36,7 +36,7 @@ header{
     position: fixed;
     width: 28vmax;
     height: auto;
-    border: 3rem solid purple;
+    border: 0.3rem solid purple;
     background-color: whitesmoke;
     z-index: 100;  
     top:5%;/*座標調整*/
@@ -46,7 +46,7 @@ header{
 }
 .close-menu{
     padding-bottom: 1rem;
-    border-top:solid 2px;
+    border-top:solid 0.3rem purple;
     font-size:200%;
     padding-top:1rem;
     display:block;
@@ -62,7 +62,7 @@ header{
     text-align: center;
 }
 .menu-list p{
-    border-top:solid 2px;
+    border-top:solid 0.3rem purple;
     padding-top:1rem;
 }
 .menu-list {
