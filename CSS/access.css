@@ -17,7 +17,7 @@ header{
 .header-left-name-logo{
     float: left;
     font-size:3.4vmax;
-    padding:1vmax 0 0 1.4vmax;
+    padding:1vmax 0 0.8vmax 1.4vmax;
     color: black;
 }
 .header-menu{
