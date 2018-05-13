@@ -36,7 +36,7 @@ header{
     position: fixed;
     width: 28vmax;
     height: auto;
-    border: 2px solid purple;
+    border: 3rem solid purple;
     background-color: whitesmoke;
     z-index: 100;  
     top:5%;/*座標調整*/
@@ -50,6 +50,7 @@ header{
     font-size:200%;
     padding-top:1rem;
     display:block;
+    color:purple;
 }
 .link{
     display:block;
