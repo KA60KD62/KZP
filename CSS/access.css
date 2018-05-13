@@ -47,6 +47,7 @@ header{
 .close-menu{
     padding-bottom: 1rem;
     border-top:solid 2px;
+    font-size:200%;
 }
 .link{
     display:block;
