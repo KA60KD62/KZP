@@ -48,6 +48,9 @@ header{
     padding-bottom: 1rem;
     border-top:solid 2px;
 }
+.link{
+    display:block;
+}
 .menu-lists{
     text-align: center;
 }
