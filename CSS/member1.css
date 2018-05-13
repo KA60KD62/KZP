@@ -35,7 +35,7 @@ header{
     position: fixed;
     width: 28vmax;
     height: auto;
-    border: 0.3rem solid purple;
+    border: 0.3rem solid gold;
     background-color: whitesmoke;
     z-index: 100;  
     top:5%;/*座標調整*/
@@ -45,23 +45,23 @@ header{
 }
 .close-menu{
     padding-bottom: 1rem;
-    border-top:solid 0.3rem purple;
+    border-top:solid 0.3rem gold;
     font-size:150%;
     padding-top:1rem;
     display:block;
-    color:purple;
+    color:gold;
 }
 .link{
     display:block;
     font-family: 'Passion One', cursive;
     font-size:150%;
-    color:purple;
+    color:gold;
 }
 .menu-lists{
     text-align: center;
 }
 .menu-list p{
-    border-top:solid 0.3rem purple;
+    border-top:solid 0.3rem gold;
     padding-top:1rem;
 }
 .menu-list {
@@ -73,7 +73,7 @@ header{
 .m-menu-title{
     font-size:180%;
     font-family: 'Passion One', cursive;
-    color:purple;
+    color:gold;
 }
 /*見出し*/
 .m-headline{
