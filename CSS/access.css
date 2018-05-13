@@ -22,8 +22,8 @@ header{
 }
 .header-menu{
     float:right;
-    font-size:4.2vmax;
-    padding:0.4vmax 2.2vmax 0 0;
+    font-size:3.8vmax;
+    padding:0.8vmax 2.2vmax 0 0;
     cursor: pointer;
     display: block;
 }
