@@ -66,10 +66,11 @@ header{
     display:block;
 }
 .menu-list a{
-    test-decoration:none;
+    text-decoration:none;
 }
 .a-menu-title{
     font-size:120%;
+    font-family: 'Passion One', cursive;
 }
 /*見出し*/
 .a-headline{
