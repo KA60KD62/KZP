@@ -47,7 +47,7 @@ header{
 .close-menu{
     padding-bottom: 1rem;
     border-top:solid 0.3rem purple;
-    font-size:200%;
+    font-size:150%;
     padding-top:1rem;
     display:block;
     color:purple;
@@ -55,7 +55,7 @@ header{
 .link{
     display:block;
     font-family: 'Passion One', cursive;
-    font-size:200%;
+    font-size:150%;
     color:purple;
 }
 .menu-lists{
@@ -72,7 +72,7 @@ header{
     text-decoration:none;
 }
 .a-menu-title{
-    font-size:200%;
+    font-size:180%;
     font-family: 'Passion One', cursive;
     color:purple;
 }
