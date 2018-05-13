@@ -66,6 +66,7 @@ header{
 }
 /*見出し*/
 .a-headline{
+    margin-top:-1vmax;
     height:25vmax;
     background-image:url(../img/a_headline.jpg);
     background-size:cover;/*比を保つ*/
