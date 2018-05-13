@@ -42,14 +42,20 @@ header{
     top:15%;/*座標調整*/
     left: 50%;/*座標調整*/
     transform: translate(-50%,0);/*座標調整*/
-    padding-top: 2vmax;
-    
+    padding-top: 2vmax;    
 }
 .close-menu{
     padding-bottom: 1rem;
 }
 .menu-lists{
     text-align: center;
+}
+.menu-list p{
+    border-top:solid 2px;
+    padding-top:1rem;
+}
+.menu-list {
+    display:block;
 }
 .a-menu-title{
     font-size:120%;
