@@ -46,6 +46,7 @@ header{
 }
 .close-menu{
     padding-bottom: 1rem;
+    border-top:solid 2px;
 }
 .menu-lists{
     text-align: center;
