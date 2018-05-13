@@ -62,6 +62,9 @@ header{
 .menu-list {
     display:block;
 }
+.menu-list a{
+    test-decoration:none;
+}
 .a-menu-title{
     font-size:120%;
 }
