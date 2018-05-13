@@ -133,6 +133,7 @@ header{
 .memberb4 {
   float: left;
   width: 20%;
+  border-bottom:0.5rem black solid;
 }
 .member-m1 {
   float: left;
