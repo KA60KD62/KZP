@@ -1,12 +1,12 @@
 html,body{margin:0;padding:0;}
 /*全体*/
 body{
-    background:silver;
+    background:dimgray;
 }
 /*header*/
 header{
     overflow: hidden;/*floatによる親の収縮の解除*/
-    background: dimgray;
+    background: silver;
     position: fixed; /* ヘッダーを固定*/
     top: 0; /* 固定する位置 */
     left: 0; /* 固定する位置 */
