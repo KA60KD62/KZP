@@ -133,17 +133,14 @@ header{
 .memberb4 {
   float: left;
   width: 20%;
-  border-bottom:0.5rem dimgray solid;
 }
 .member-m1 {
   float: left;
   width: 33%;
-  border-bottom:0.5rem dimgray solid;
 }
 .member-m2 {
   float: left;
   width: 25%;
-  border-bottom:0.5rem dimgray solid;
 }
 .member-icon {
   position: relative; 
