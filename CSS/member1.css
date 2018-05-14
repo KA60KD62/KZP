@@ -183,11 +183,11 @@ header{
   border-radius: 4px;
   cursor: pointer;
   color:dimgray;
-  font-size:3vmax;
+  font-size:2.2vmax;
 }
 #link-font{
   color:aliceblue;
-  font-size:2.4vmax;
+  font-size:2.2vmax;
 }
 /*メッセージ全体*/
 .container-message {
