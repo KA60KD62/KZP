@@ -10,17 +10,16 @@ $(function() {
   $('.close-menu').click(function() {
     $('.menu').fadeOut();
   });  
-  //メンバー--------------------------//
-    //メンバーコメント//
-    
-  $('.member-hover').hover(
+//image//
+      $('.lesson-hover').hover(
     function() {
-      $(this).find('.member-comment').addClass('member-active'); 
+      $(this).find('.text-contents').addClass('text-active'); 
     },
     function() {
-      $(this).find('.member-comment').removeClass('member-active');
+      $(this).find('.text-contents').removeClass('text-active');
     }
-  );    
+  );
+  //メンバー--------------------------// 
     /*メンバー写真変化*/     
   $('.member-hover').hover(
     function() {
@@ -119,6 +118,29 @@ $(function() {
       $(this).find('img[src="../img/bill2.jpg"]').attr('src','../img/Bill1.jpg');
     }
   );
+
+    
+  // FAQのアコーディオン
+  $('.faq-list-item').click(function() {
+    var $answer = $(this).find('.answer');
+    if($answer.hasClass('open')) { 
+      $answer.removeClass('open');
+      // slideUpメソッドを用いて、$answerを隠してください
+      $answer.slideUp();
+
+      // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
+      $(this).find("span").text("+");
+      
+    } else {
+      $answer.addClass('open'); 
+      // slideDownメソッドを用いて、$answerを表示してください
+     $answer.slideDown();
+      
+      // 子要素のspanタグの中身をtextメソッドを用いて書き換えてください
+      $(this).find("span").text("-");
+      
+    }
+  });
     
     
     
