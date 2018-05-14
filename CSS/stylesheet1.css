@@ -290,11 +290,11 @@ footer{
     }
 /*faq*/
     .faq-list-item h3 {
-      font-size: 2.2vmax;
+      font-size: 1.9vmax;
       text-align: center;
     }
     .answer {
-      font-size: 2.2vmax;
+      font-size: 1.9vmax;
     }
     .faq-list-item span {
       font-size:3vmax;
