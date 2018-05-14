@@ -96,15 +96,13 @@ header{
     position: relative;
     top:35%;
 }
-/*メンバー紹介------------------------------------------------------------------------------*/
-/*index,member見出し、内容、フッター*/
+/*中身------------------------------------------------------------------------------*/
+/*内容*/
 .container {
   width: 1oo%;
   padding: 0 15px;
   margin: 0 auto;
 }
-
-/*index内容*/
 .lesson-wrapper {
   height: 100%;
   padding-bottom: 80px;
@@ -112,7 +110,6 @@ header{
   text-align: center;
   margin-bottom: 100px;
 }
-/*index内容*/
 .heading {
   padding-top: 60px;
   padding-bottom: 30px;
@@ -121,7 +118,6 @@ header{
 .heading h2 {
   font-weight: normal;
 }
-/*index各内容*/
 .lesson {
   float: left;
   width: 25%;
@@ -288,6 +284,9 @@ footer{
     .lesson-icon p {
         font-size:3.5vmax;
         margin-top:10px;
+    }
+    .lesson {
+      float: none;
     }
 /*faq*/
     .faq-list-item h3 {
