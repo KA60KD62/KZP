@@ -127,12 +127,23 @@ header{
     height:59%;
     border-radius:100%;
 }
+.member-photo-teacher{
+    padding-top:1rem;
+    width:75%;
+    height:75%;
+    border-radius:100%;
+}
 .member-wrapper {
   height: 100%;
   background-color: gold;
   text-align: center;
   padding-top: 3rem;
   padding-bottom:1.5rem
+}
+.teacher {
+  text-align: center;
+  width: 25%;
+  margin-left:37.5%;
 }
 .memberb4 {
   float: left;
@@ -243,6 +254,11 @@ footer{
 /*レスポンシブ------------------------------------------------------*/
 @media all and (max-width: 1000px) {
 /*memberメンバー紹介*/
+  .teacher {
+    width: 100%;
+    margin-bottom: 50px;    
+    margin-left: 0;
+  }
   .memberb4 {
     width: 100%;
     margin-bottom: 50px;    
@@ -261,6 +277,11 @@ footer{
     border-radius:100%;
 }
 .member-photo-m1{
+    width:50%;
+    height:50%;
+    border-radius:100%;
+}   
+.member-photo-teacher{
     width:50%;
     height:50%;
     border-radius:100%;
