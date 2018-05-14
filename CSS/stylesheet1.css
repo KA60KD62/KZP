@@ -288,7 +288,7 @@ footer{
     .lesson {
       float: none;
     }
-/*faq*/
+/*faq-------*/
     .faq-list-item h3 {
       font-size: 1.7vmax;
       text-align: center;
@@ -299,7 +299,14 @@ footer{
     .faq-list-item span {
       font-size:3vmax;
     }
-
+/*btn*/
+    .member-btn {
+      font-size:2.3vmax;
+    }
+    #link-font{
+      color:aliceblue;
+      font-size:1.8vmax;
+    }
 }    
 /*共通body-----------------------------------------------------------*/
   body{
