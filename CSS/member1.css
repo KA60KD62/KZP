@@ -251,6 +251,7 @@ footer{
 }
 .footer{
     padding:0.5vmax;
+    border-top:1.5px solid black;
 }
 /*レスポンシブ------------------------------------------------------*/
 @media all and (max-width: 1000px) {
