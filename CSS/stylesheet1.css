@@ -12,6 +12,7 @@ header{
     left: 0; /* 固定する位置 */
     right: 0;  /* 固定する位置 */
     z-index:10;/*最前面*/
+    border-bottom:1.5px solid black;
 }
 .header-left-name-logo{
     float: left;
@@ -253,6 +254,7 @@ footer{
 }
 .footer{
     padding:0.5vmax;
+    border-top:1.3px solid black;
 }
 /*レスポンシブ------------------------------------------------------*/
 @media all and (max-width: 1000px) {
