@@ -36,7 +36,7 @@ header{
     width: 28vmax;
     height: auto;
     border: 0.3rem solid aliceblue;
-    background-color: #D7DF01;
+    background-color: dimgray;
     z-index: 100;  
     top:5%;/*座標調整*/
     left: 50%;/*座標調整*/
