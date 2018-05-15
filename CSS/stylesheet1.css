@@ -159,12 +159,6 @@ header{
 .heading-faq h2 {
   font-weight: normal;
 }
-.answer {
-  font-size: 12px;
-  display: none;
-  padding: 5px 0px;
-  margin-bottom: 15px;
-}
 .faq-wrapper {
   background-color: #e6ecf0;
   text-align: center;
@@ -192,7 +186,7 @@ header{
   position:absolute;
   top:-3px;
   right:3%;
-  color: #B3B3B3;
+  color: #5f5d60;
   font-size:120%;
 }
 .answer {
@@ -200,6 +194,8 @@ header{
   display: none;
   padding: 5px 0px;
   margin-bottom: 15px;
+  color:#5f5d60;
+  font-weight:bold;
 }
 /*リンク------------------------------------------------------------------------------------*/
 .member-btn {
