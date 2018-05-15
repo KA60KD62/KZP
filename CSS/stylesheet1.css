@@ -164,7 +164,9 @@ header{
   background-color: silver;
   text-align: center;
   padding-bottom: 80px;
-  color: dimgray;
+  color: dimgray;  
+  border-top:1.5px solid black;
+  border-bottom:1.5px solid black;
 }
 #faq-list {
   width: 100%;
@@ -174,7 +176,7 @@ header{
 }
 .faq-list-item {
   margin:10px;
-  border-bottom:1px solid #ccc;
+  border-bottom:1px solid dimgray;
   position:relative;
   cursor:pointer;
   text-align: center;
