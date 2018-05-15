@@ -88,10 +88,10 @@ $(function() {
   );   
   $('.member-hover').hover(
     function() {
-      $(this).find('img[src="../img/zaq1.jpg"]').attr('src','../img/zaq2.jpg'); 
+      $(this).find('img[src="../img/kubota.jpg"]').attr('src','../img/kubota1.jpg'); 
     },
     function() {
-      $(this).find('img[src="../img/zaq2.jpg"]').attr('src','../img/zaq1.jpg');
+      $(this).find('img[src="../img/kubota1.jpg"]').attr('src','../img/kubota.jpg');
     }
   );   
   $('.member-hover').hover(
