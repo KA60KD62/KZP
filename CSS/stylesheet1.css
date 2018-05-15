@@ -284,6 +284,11 @@ footer{
     .lesson {
       float: none;
     }
+    .index-image{
+      width:45%;
+      height:45%;
+      margin:0 27.5%;
+    } 
 /*faq-------*/
     .faq-list-item h3 {
       font-size: 1.7vmax;
