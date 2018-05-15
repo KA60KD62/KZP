@@ -161,10 +161,10 @@ header{
   font-weight: normal;
 }
 .faq-wrapper {
-  background-color: #e6ecf0;
+  background-color: silver;
   text-align: center;
   padding-bottom: 80px;
-  color: #5f5d60;
+  color: dimgray;
 }
 #faq-list {
   width: 100%;
@@ -195,7 +195,7 @@ header{
   display: none;
   padding: 5px 0px;
   margin-bottom: 15px;
-  color:#5f5d60;
+  color:dimgray;
   font-weight:bold;
 }
 /*リンク------------------------------------------------------------------------------------*/
