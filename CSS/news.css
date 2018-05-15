@@ -7,7 +7,7 @@ body{
 /*header*/
 header{
     overflow: hidden;/*floatによる親の収縮の解除*/
-    background: #1e1eff;
+    background: coral;
     position: fixed; /* ヘッダーを固定*/
     top: 0; /* 固定する位置 */
     left: 0; /* 固定する位置 */
@@ -38,7 +38,7 @@ header{
     position: fixed;
     width: 28vmax;
     height: auto;
-    border: 0.3rem solid #2c2f98;
+    border: 0.3rem solid orange;
     background-color: whitesmoke;
     z-index: 100;  
     top:5%;/*座標調整*/
@@ -48,23 +48,23 @@ header{
 }
 .close-menu{
     padding-bottom: 1rem;
-    border-top:solid 0.3rem #2c2f98;
+    border-top:solid 0.3rem orange;
     font-size:150%;
     padding-top:1rem;
     display:block;
-    color:#2c2f98;
+    color:orange;
 }
 .link{
     display:block;
     font-family: 'Passion One', cursive;
     font-size:150%;
-    color:#2c2f98;
+    color:orange;
 }
 .menu-lists{
     text-align: center;
 }
 .menu-list p{
-    border-top:solid 0.3rem #2c2f98;
+    border-top:solid 0.3rem orange;
     padding-top:1rem;
 }
 .menu-list {
@@ -76,13 +76,13 @@ header{
 .a-menu-title{
     font-size:180%;
     font-family: 'Passion One', cursive;
-    color:#2c2f98;
+    color:orange;
 }
 /*見出し*/
 .n-headline{
     margin-top:-1vmax;
     height:25vmax;
-    background-image:url(../img/contact.jpg);
+    background-image:url(../img/news.jpg);
     background-size:cover;/*比を保つ*/
 }
 .n-headline p{
@@ -101,7 +101,7 @@ header{
 .n-title{
     font-size:3vmax;
     padding-bottom:2vmax;
-    color:blue;
+    color:coral;
 }
 /*footer*/
 .footer-name-logo{
@@ -111,7 +111,7 @@ header{
     font-size: 70%;
 }
 footer{
-    background:#000082;
+    background:orangered;
     width:100%;
     height: 100%;
     color:aliceblue;
