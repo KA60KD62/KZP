@@ -135,6 +135,8 @@ header{
     border-radius:100%;
 }
 .member-wrapper {
+  border-top:1.5px solid black;
+  border-bottom:1.5px solid black;
   height: 100%;
   background-color: gold;
   text-align: center;
